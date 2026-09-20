@@ -1,0 +1,6 @@
+{
+  "name": "shared-client",
+  "language": "typescript",
+  "role": "library",
+  "calls": []
+}
